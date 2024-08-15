@@ -393,6 +393,32 @@
 }
 .container7 {
   margin: 0 7em;
+  position:relative;
+
+  .dots{
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    bottom: 0;
+   right: 550px;
+    position: absolute;
+
+  }
+  .dot1{
+    height: 14px;
+  width: 14px;
+  background-color:#fa7436;
+  border-radius: 50%;
+
+  }
+
+   .dot{
+   height: 10px;
+  width: 10px;
+  background-color:rgba(128, 128, 128, 0.529);
+  border-radius: 50%;
+  
+}
 }
 .latest-blog {
   display: flex;
@@ -410,7 +436,9 @@
     font-family: "Poppins", sans-serif;
     font-weight: 500;
   }
+ 
 }
+
 
 .container9 {
   position: relative;
