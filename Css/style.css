@@ -92,6 +92,8 @@
   align-items: center;
   gap: 3em;
 
+ 
+
   i {
     color: rgba(250, 116, 54, 1);
   }
@@ -451,7 +453,7 @@
 }
 .subscribe {
   display: flex;
-  margin: 0 3em;
+  margin: 0 2em;
 
   p {
     font-family: "Poppins", sans-serif;
