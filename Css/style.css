@@ -375,9 +375,9 @@
 }
 .person {
   position: absolute;
-  top: 90px;
+  top: 65px;
   right: 43em;
-  scale: 0.9;
+  scale: 0.8;
 }
 .smilies {
   b {
