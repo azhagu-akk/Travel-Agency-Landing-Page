@@ -1,6 +1,12 @@
 # Travel Agency Landing Page
 
-## Demo Link: [Click Here!!!](https://travelagencylandingpageakk.netlify.app/)
+# Introduction <img width="30" height="30" src="https://img.icons8.com/emoji/48/waving-hand-emoji.png" alt="waving-hand-emoji"/>
+
+Welcome to the Travel Agency Landing Page project! This repository contains the code for a simple, static landing page for a travel agency. 
+The page is built using HTML and CSS, focusing on visual design elements, including images, icons, and styles.
+Please note that this page is not responsive and is intended for desktop viewing.
+
+##  Demo Link : [Click Here!!!](https://travelagencylandingpageakk.netlify.app/)  
 
 ## Preview <img width="30" height="30" src="https://img.icons8.com/cute-clipart/64/preview-pane.png" alt="preview-pane"/> 
 
@@ -16,10 +22,6 @@ The landing page is built using HTML and CSS, focusing on providing a visually a
 - **Header Section:** Includes the company logo, navigation menu, and a background color.  <br>
 
 - **Services Section:** Highlights the key services offered by the agency with icons and brief descriptions.  <br>
-
-- **Destinations Section:** Showcases popular travel destinations with images and short details.  <br>
-
-- **Testimonials Section:** Displays customer feedback with a visually appealing design.
 
 
 ## Technology Used <img width="30" height="30" src="https://img.icons8.com/clouds/100/technology.png" alt="technology"/>
